@@ -1,9 +1,8 @@
 <h2>Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 
-<h4>My name is Sebastian Nugra. I'm a software engineering student with a strong interest in software development and innovation. 
-My name is Sebastian Nugra, I'm 19 years old and I'm a Software Engineering student at Universidad Católica de Cuenca in Ecuador. 
-I really enjoy going to the gym, listening to music, watching movies, hanging out with friends, and playing volleyball. I'm passionate about technology and always eager to learn something new.
-</h4>
+<h4>My name is Sebastian Nugra, I'm 19 years old and I'm a Software Engineering student.
+I really enjoy going to the gym, listening to music, watching movies, hanging out with friends, and playing volleyball. I'm passionate about technology and always eager to learn something new.</h4>
+
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
