@@ -1,13 +1,11 @@
 <h2>Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 <img align="left" src="https://orhun.dev/img/crow.png">
 <h4>   
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 </h4>
 <h4>My name is Sebastian Nugra, I'm 19 years old and I'm a Software Engineering student.
 I really enjoy going to the gym, listening to music, watching movies, hanging out with friends, and playing volleyball. I'm passionate about technology and always eager to learn something new.</h4>
-<h4>   
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-</h4>
+
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 🛠️ My Favorite Tools
