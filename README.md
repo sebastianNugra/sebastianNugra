@@ -1,7 +1,7 @@
 <h2>Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 <img align="left" src="https://orhun.dev/img/crow.png">
 <h4>   
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 </h4>
 <h4>My name is Sebastian Nugra, I'm 19 years old and I'm a Software Engineering student.
 I really enjoy going to the gym, listening to music, watching movies, hanging out with friends, and playing volleyball. I'm passionate about technology and always eager to learn something new.</h4>
