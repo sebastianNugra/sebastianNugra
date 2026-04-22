@@ -9,7 +9,7 @@
 <h3>💻 Developer | 🚀 Tech Lover</h3>
 
 - 🌱 Actualmente aprendiendo nuevas tecnologías  
-- 💡 Interesado en desarrollo web moderno y backend  
+- 💡 Interesado en desarrollo web  y backend.  
 - ⚡ Construyendo un poco de todo  
 
 </td>
