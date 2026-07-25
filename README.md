@@ -24,7 +24,7 @@
 
 ### 🚀 Tech Stack
 
-#### 🖥️ Languages
+#### 🖥️ Core Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
 </p>
