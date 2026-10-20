@@ -131,6 +131,23 @@ I'm exploring full-stack engineering and computer vision, always learning by bui
   </a>
 </p>
 
+---
+
+<div align="center">
+
+```text
+ ______________________________
+/                              \
+|  Quoth the Raven:            |
+|  "It compiles... for now."   |
+\______________________________/
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
 </td>
 </tr>
 </table>
@@ -154,21 +171,6 @@ I'm exploring full-stack engineering and computer vision, always learning by bui
   </a>
 </p>
 
----
 
-<div align="center">
-
-```text
- ______________________________
-/                              \
-|  Quoth the Raven:            |
-|  "It compiles... for now."   |
-\______________________________/
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
 
 </div>
