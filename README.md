@@ -2,7 +2,7 @@
 <tr>
 <td width="60%" valign="middle">
 
-<h1>Software Engineering Student</h1>
+<h1>Software Engineering</h1>
 
 > *In the shadow of the terminal, I build. Learn. Code. Repeat until the machine obeys.*
 
